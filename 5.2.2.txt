@@ -1,0 +1,3 @@
+SELECT title, author, bookId, cover
+FROM book
+ORDER BY title

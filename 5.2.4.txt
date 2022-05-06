@@ -1,0 +1,3 @@
+SELECT * from book
+WHERE title like 'C%'
+ORDER BY title

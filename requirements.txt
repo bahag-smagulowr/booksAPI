@@ -1,0 +1,5 @@
+flask-restful
+flask-cors
+werkzeug==2.0.2
+pytest
+psycopg2-binary

@@ -1,0 +1,3 @@
+SELECT content, bookId, id
+FROM review
+where bookId = 1
